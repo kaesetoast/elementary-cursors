@@ -6,11 +6,15 @@ A cursor theme for elementary OS
 
 ###Installing 
 
-Simple: copy the 'elementary' folder into '/usr/share/icons' and then set your cursor theme:
+Simple: copy the 'elementary' folder into '/usr/share/icons' and then set your cursor theme using your favourite tool or:
 
     gsettings set org.gnome.desktop.interface cursor-theme 'elementary'
 
-And/or run the following and choose the elementary cursor theme.
+But to make a system-wide change run the following:
+
+    sudo update-alternatives --install /usr/share/icons/default/index.theme x-cursor-theme /usr/share/icons/elementary/cursor.theme 91
+
+Then use the following to choose 'elementary':
 
     sudo update-alternatives --config x-cursor-theme
 
