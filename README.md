@@ -1,5 +1,5 @@
-elementary Cursors
-==================
+elementary Cursor Theme
+=======================
 
 A cursor theme for elementary OS
 
