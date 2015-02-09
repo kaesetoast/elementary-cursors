@@ -13,10 +13,9 @@ Simple: copy the 'elementary' folder into '/usr/share/icons' and then set your c
 But to make a system-wide change run the following:
 
     sudo update-alternatives --install /usr/share/icons/default/index.theme x-cursor-theme /usr/share/icons/elementary/cursor.theme 13
-
-Then run the following to choose 'elementary':
-
     sudo update-alternatives --config x-cursor-theme
+
+Then log out and back in for the changes to take effect.
 
 
 ###Using the Source
