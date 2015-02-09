@@ -1,9 +1,9 @@
 #!/bin/sh
 xcursorgen left_ptr_watch.in ../../../elementary/cursors/left_ptr_watch
-xcursorgen hand1.in ../../../elementary/cursors/hand1
+#xcursorgen hand1.in ../../../elementary/cursors/hand1
 xcursorgen hand2.in ../../../elementary/cursors/hand2
 xcursorgen left_ptr.in ../../../elementary/cursors/left_ptr
-xcursorgen center_ptr.in ../../../elementary/cursors/center_ptr
+#xcursorgen center_ptr.in ../../../elementary/cursors/center_ptr
 xcursorgen xterm.in ../../../elementary/cursors/xterm
 xcursorgen crossed_circle.in ../../../elementary/cursors/crossed_circle
 xcursorgen right_ptr.in ../../../elementary/cursors/right_ptr
@@ -24,8 +24,8 @@ xcursorgen sb_left_arrow.in ../../../elementary/cursors/sb_left_arrow
 xcursorgen sb_right_arrow.in ../../../elementary/cursors/sb_right_arrow
 xcursorgen sb_up_arrow.in ../../../elementary/cursors/sb_up_arrow
 xcursorgen sb_down_arrow.in ../../../elementary/cursors/sb_down_arrow
-xcursorgen based_arrow_down.in ../../../elementary/cursors/based_arrow_down
-xcursorgen based_arrow_up.in ../../../elementary/cursors/based_arrow_up
+#xcursorgen based_arrow_down.in ../../../elementary/cursors/based_arrow_down
+#xcursorgen based_arrow_up.in ../../../elementary/cursors/based_arrow_up
 xcursorgen bottom_side.in ../../../elementary/cursors/bottom_side
 xcursorgen top_side.in ../../../elementary/cursors/top_side
 xcursorgen left_side.in ../../../elementary/cursors/left_side
@@ -85,8 +85,8 @@ ln -sf    link				640fb0e74195791501fd1ed57b41487f
 ln -sf    crossed_circle	03b6e0fcb3499374a867c041f52298f0
 ln -sf    fd_double_arrow	fcf1c3c7cd4491d801f1e1c78f100000
 ln -sf    bd_double_arrow	c7088f0f3e6c8088236ef8e1e3e70000
-ln -sf    based_arrow_up	base_arrow_up
-ln -sf    based_arrow_down	base_arrow_down
+#ln -sf    based_arrow_up	base_arrow_up
+#ln -sf    based_arrow_down	base_arrow_down
 ln -sf    sb_h_double_arrow h_double_arrow
 ln -sf    sb_h_double_arrow	14fef782d02440884392942c11205230
 ln -sf    h_double_arrow	028006030e0e7ebffc7f7070c0600140
@@ -94,6 +94,6 @@ ln -sf    sb_v_double_arrow double_arrow
 ln -sf    sb_v_double_arrow v_double_arrow
 ln -sf    sb_v_double_arrow	2870a09082c103050810ffdffffe0204
 ln -sf    v_double_arrow	00008160000006810000408080010102
-ln -sf    center_ptr		centre_ptr
+#ln -sf    center_ptr		centre_ptr
 
-sudo cp -RPv * /usr/share/icons/elementary/cursors/
+#cp -RPv * /usr/share/icons/Vanilla-DMZ/cursors/
