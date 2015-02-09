@@ -7,7 +7,7 @@ These icons are free artwork; you can redistribute them and/or modify them under
 
 ###Installing 
 
-Copy the 'elementary' folder into '/usr/share/icons' you may have to change the copied files' permissions (to 755) after copying in order to use the theme. Then set your cursor theme using your favourite tool or:
+Copy the 'elementary' folder into '/usr/share/icons', then set your cursor theme using your favourite tool or:
 
     gsettings set org.gnome.desktop.interface cursor-theme 'elementary'
 
@@ -18,6 +18,7 @@ But to make a system-wide change run the following:
 
 Then log out and back in for the changes to take effect.
 
+For manual installation, you may have to change the copied files' permissions (to 755) after copying in order to use the theme.
 
 ###Using the Source
 
