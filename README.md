@@ -6,7 +6,7 @@ A cursor theme for elementary OS. This work is licenced under the Creative Commo
 
 ###Installing 
 
-Simple: copy the 'elementary' folder into '/usr/share/icons' and then set your cursor theme using your favourite tool or:
+Copy the 'elementary' folder into '/usr/share/icons' you may have to change the copied files' permissions (to 755) after copying in order to use the theme. Then set your cursor theme using your favourite tool or:
 
     gsettings set org.gnome.desktop.interface cursor-theme 'elementary'
 
