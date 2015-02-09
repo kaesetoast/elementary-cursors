@@ -10,6 +10,10 @@ Simple: copy the 'elementary' folder into '/usr/share/icons' and then set your c
 
     gsettings set org.gnome.desktop.interface cursor-theme 'elementary'
 
+And/or run the following and choose the elementary cursor theme.
+
+    sudo update-alternatives --config x-cursor-theme
+
 
 ###Using the Source
 
