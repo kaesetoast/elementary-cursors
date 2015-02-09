@@ -1,7 +1,7 @@
 elementary Cursor Theme
 =======================
 
-A cursor theme for elementary OS
+A cursor theme for elementary OS. This work is licenced under the Creative Commons Attribution-Share Alike 3.0
 
 
 ###Installing 
