@@ -22,7 +22,7 @@ To render the cursor theme from the [source plate](src/cursors/elementary.svg) y
 
     python renderpngs.py
 
-Then make the theme by running the make script in the [src/cursors/png](src/cursors/png) folder:
+Then make the theme by running the make script in the [src/cursors/png](src/cursors/pngs) folder:
 
     bash make.sh
 
