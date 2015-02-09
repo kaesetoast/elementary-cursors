@@ -18,7 +18,7 @@ There are scripts to simplify the rendering process; to run them (and edit icons
  * inkscape
  * python
 
-To render the cursor theme from the source plate you will need to run the render script in [src/cursors](src/cursors):
+To render the cursor theme from the [source plate](src/cursors/elementary.svg) you will need to run the render script in [src/cursors](src/cursors):
 
     python renderpngs.py
 
