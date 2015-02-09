@@ -1,8 +1,9 @@
 elementary Cursor Theme
 =======================
 
-A cursor theme for elementary OS. This work is licenced under the Creative Commons Attribution-Share Alike 3.0
+A cursor theme for elementary OS. 
 
+These icons are free artwork; you can redistribute them and/or modify them under the terms of the GNU General Public License as published by the Free Software Foundation; either version 3, or (at your option) any later version.
 
 ###Installing 
 
