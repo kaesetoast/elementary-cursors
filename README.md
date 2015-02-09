@@ -14,7 +14,7 @@ But to make a system-wide change run the following:
 
     sudo update-alternatives --install /usr/share/icons/default/index.theme x-cursor-theme /usr/share/icons/elementary/cursor.theme 13
 
-Then use the following to choose 'elementary':
+Then run the following to choose 'elementary':
 
     sudo update-alternatives --config x-cursor-theme
 
