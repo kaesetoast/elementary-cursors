@@ -1034,7 +1034,8 @@
      inkscape:snap-intersection-paths="true"
      inkscape:object-paths="true"
      inkscape:object-nodes="true"
-     inkscape:snap-smooth-nodes="true">
+     inkscape:snap-smooth-nodes="true"
+     showborder="false">
     <inkscape:grid
        type="xygrid"
        id="grid4028"
@@ -2394,7 +2395,7 @@
     <g
        id="g6739"
        transform="matrix(1.3636364,0,0,1.3636364,22.403272,-393.0859)"
-       style="fill:#333333;fill-opacity:1;stroke-width:0.73333335;opacity:1">
+       style="fill:#333333;fill-opacity:1;stroke-width:0.73333335;opacity:0.8">
       <text
          sodipodi:linespacing="125%"
          id="text18752"
