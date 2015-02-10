@@ -12,7 +12,7 @@ Copy the 'elementary' folder into '/usr/share/icons', then set your cursor theme
 But to make a system-wide change run the following:
 
     sudo update-alternatives --install /usr/share/icons/default/index.theme x-cursor-theme /usr/share/icons/elementary/cursor.theme 13
-    sudo update-alternatives --config x-cursor-theme
+    sudo update-alternatives --set x-cursor-theme /usr/share/icons/elementary/cursor.theme
 
 Then log out and back in for the changes to take effect.
 
