@@ -3,6 +3,8 @@ elementary Cursor Theme
 
 A cursor theme for elementary OS.
 
+These cursors are free artwork; you can redistribute them and/or modify them under the terms of the [GNU General Public License version 3](http://www.gnu.org/licenses/gpl.txt).
+
 ###Installing 
 
 Copy the 'elementary' folder into '/usr/share/icons', then set your cursor theme using your favourite tool or:
